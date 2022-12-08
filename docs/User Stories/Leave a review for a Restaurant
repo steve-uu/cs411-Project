@@ -1,0 +1,6 @@
+As a user, I want to be able to leave reviews and feedback for the restaurant. 
+Users can rate the restaurant by the prices, food quality, service quality, 
+and an overall rating of the restaurant: the ratings should be from one star to five stars. 
+Therefore, the other users can see the comments and decide whether they still want to go to the restaurant or not. 
+If successful, the users can rate the restaurant properly and leave the detailed comments. 
+And the other users can review the rating and comments. If not successful, the feedback will not be shown up or the feedback may be wrong.

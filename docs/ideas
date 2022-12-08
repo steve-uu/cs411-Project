@@ -1,0 +1,39 @@
+#ideas
+
+
+
+#Brian's Idea:
+
+1. You want to find a restaurant to eat at. You could use Yelp to check reviews and look at the address. But if you want to look at the images, usually they are of low quality.
+Most of the good images of the food is on Instagram. What if we combined the images of Instagram to their corresonding resturants on Yelp.
+To do this: we'll use the Yelp API and Instagram API.
+ - 3rd party auth (Google, Facebook, Twitter, etc.) to sign in to a profile. Profile will store name, past searches, favorite restrants. 
+ - Store this data in database 
+ - Vue.js Frontend, Flask backend, MySQL database
+
+
+
+
+2.To find the cheapst delivery app for a food order.
+    Use UberEats API, Doordash API, RICEPO API, and Chowbus API, to get the prices of the order and find the cheapest one. 
+    Users should just search the restaurant and select the food that they want to and the web should give them the best delivery app they should use for the order.
+ - Store this data in database 
+ - React.js Frontend, Flask backend, MySQL database
+
+
+#Mikel's Idea:
+
+1. Application that goes through databases of pets in shelters and links users with them to take care of the pet for one or a few days. The users will have a rating and the pets as well so the shelter can know if someone is trustworthy.
+- Database of dogs and users
+- User authentication with Google email and other social medias
+- React for the frontend, MySQL database, Flask backend
+
+#Zhiyi's Idea:
+You want to make predications about your flight status: whether it will be delayed, cancelled. For this project, we will use two APIs, 
+which is weather/climate data from NOAA and flight API to get the flight informations and data. We will get the weather informations:
+wind, fainfall, humidity,and visibility as features to train a machine learning model to make the predications about the flight status.
+The 3rd party authentication would be facebook to login. We will use Vue.js as frontend, Flask as backend, and MySQL database
+
+
+
+

@@ -1,0 +1,9 @@
+As a user, I want to be able to search for restaurants near my location in order to choose where to go eat. 
+This would work by opening up the application and entering into the prompted search bar key terms for the type of restaurant I want 
+(i.e. Type of cuisine, Price point, Takeout Availability, etc.). 
+The map would then list the top restaurants according to my search query.
+I would then be able to choose a restaurant to learn more details about it (address, phone number, hours open)
+and to see images of the food it has (images taken from instagram). 
+These details and images would help me make a decision of which restaurant I would choose to go eat at. 
+What was mentioned is the success story. Non-success would be if no Restaurant is available based on the search terms, 
+to which a notification would be given saying “no results found nearby. Please adjust search criteria”

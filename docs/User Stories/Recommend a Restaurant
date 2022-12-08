@@ -1,0 +1,5 @@
+As a user, I want the application to recommend a restaurant based on my past visits / searches to be able to easily discover new places 
+I will most likely like. Given your reviews on previous visits, the application will prompt new restaurants in the area similar 
+to those you previously liked. A success would be when a user goes to a recommended restaurant and 
+finds it similar to those previously liked by him. A non-success would be that the recommendation algorithm fails to find a good, 
+similar restaurant to recommend and ends up recommending something different. 
